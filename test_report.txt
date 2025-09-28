@@ -1,0 +1,15 @@
+Selenium Test Report
+==================================================
+
+[2025-09-28 12:57:27] Generated credentials:
+Email: t2aqhi2v@ku2qi8ie.mailosaur.net
+Phone: +9779930382236
+Password: iB$ww1Wk
+[2025-09-28 12:57:27] Opened login page
+[2025-09-28 12:57:27] Clicked Sign Up link
+[2025-09-28 12:57:27] Checked Terms and Conditions
+[2025-09-28 12:57:27] Clicked Continue button
+[2025-09-28 12:57:27] Filled signup form (first name, last name, email, phone, password, confirm password)
+[2025-09-28 12:57:27] Clicked Next button
+[2025-09-28 12:57:27] No UI confirmation found, proceeding anyway
+[2025-09-28 12:57:27] Error during signup/login: Verification code not received in time
